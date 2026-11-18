@@ -1,0 +1,5 @@
+project_id = "notes-share"
+
+[functions.ai-tutor]
+entrypoint = "./functions/ai-tutor/index.js"
+verify_jwt = false
